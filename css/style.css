@@ -1,0 +1,53 @@
+body{
+    background: #975f1f url(../img/fundo.png);
+    font: 16 px Arial, Helvetica, sens-serif;
+    
+}
+#principal{
+    width:900px;
+    height: 900px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.banner{
+    margin-top: 5px;
+}
+a{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px;
+    color: rgb(187, 118, 14);
+
+   
+   
+
+}
+.link{
+    background-color: rgb(241, 212, 168);
+    text-align: center;
+    padding: 15px;
+    margin-top: -5px;
+ 
+ 
+}
+.sobre{
+    background-color: rgb(252, 192, 102);
+    text-align: center;
+    padding: 15px;
+    color: rgb(187, 118, 14);
+}
+.img{
+    width: 250px;
+}
+.rodape{
+    background-color: rgb(241, 212, 168);
+    text-align: center;
+    padding: 15px;
+    color: rgb(187, 118, 14);
+}
+h1{
+    margin-bottom: 5px;
+}
+p{
+    text-align: left;
+    margin-bottom: 10px;
+}
